@@ -10,16 +10,16 @@ The dataset used in this analysis contains information about restaurants in Ahme
 - Exploratory Data Analysis (EDA).<br>
 - Scatter plot showing the relationship between aggregate rating and votes.<br>
 - Bar plot showing the top 10 restaurants in Ahmedabad based on the number of outlets.<br>
-- Count plot showing the distribution of different establishment types in Ahmedabad.<br>
-- Bar plot showing the number of restaurants in each area of Ahmedabad.<br>
-- Bar plot showing the most available cuisines in Ahmedabad.<br>
-- Histogram showing the distribution of average cost for two persons in Ahmedabad.<br>
-- Bar plot showing the average cost for two persons per establishment type in Ahmedabad.<br>
-- Bar plot showing the average cost per locality in Ahmedabad.<br>
-- Bar plot showing the top highlights of restaurants in Ahmedabad.<br>
-- Pie chart showing the percentage of restaurants accepting digital payments in Ahmedabad.<br>
-- Pie chart showing the percentage of restaurants offering delivery service in Ahmedabad.<br>
-- Distribution plot for aggregate ratings and count plot for rating text in Ahmedabad.<br>
+- Count plot showing the distribution of different establishment types.<br>
+- Bar plot showing the number of restaurants in each area.<br>
+- Bar plot showing the most available cuisines.<br>
+- Histogram showing the distribution of average cost for two persons.<br>
+- Bar plot showing the average cost for two persons per establishment type.<br>
+- Bar plot showing the average cost per locality.<br>
+- Bar plot showing the top highlights of restaurants.<br>
+- Pie chart showing the percentage of restaurants accepting digital payments.<br>
+- Pie chart showing the percentage of restaurants offering delivery service.<br>
+- Distribution plot for aggregate ratings and count plot for rating text.<br>
 
 # Top Restaurants Analysis
 Function to find and plot top restaurants based on establishment type (e.g., Casual Dining, Café, Dessert Parlour).
