@@ -5,7 +5,7 @@ This project contains an analysis of restaurant data for Ahmedabad, focusing on 
 The dataset used in this analysis contains information about restaurants in Ahmedabad, including their names, establishments, locations, cuisines, average cost for two, ratings, and more.
 
 # Preprocessing
--Duplicate entries were removed based on the restaurant ID (res_id).
+-Duplicate entries were removed based on the restaurant ID (res_id).<br>
 -Missing values were handled, and the dataset was cleaned for further analysis.
 -Exploratory Data Analysis (EDA)
 -Scatter plot showing the relationship between aggregate rating and votes.
